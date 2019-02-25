@@ -39,8 +39,8 @@ If an instructor is listed on the hours, they are holding on call hours. So, mes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **10-11PM** Nick Sherman
 
 #### Thursday <br/>		
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-9PM** Kevin, Duncan, Prava <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-10PM** Nathan, Kevin, Duncan, Prava <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-9PM** Serena, Duncan, Prava <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-10PM** Nathan, Serena, Duncan, Prava <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **10-11PM** Anusha, Nathan, Nick Sherman, Prava <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **11-12PM** Anusha, Prava
 
